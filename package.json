@@ -1,7 +1,7 @@
 {
   "name": "jercat-bot-server",
   "version": "2.0.0",
-  "description": "JERCAT Trading Bot - Backend 24/7 + Interface Original",
+  "description": "JERCAT Trading Bot - Backend 24/7",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
